@@ -1,3 +1,3 @@
-Learning RUBY.......
+## 学习是不断进步的动力
 
-Here are some use cases to learn.
+在学习中遇到有趣的代码，或者片段，就放在这里保存吧！当作备忘录！
